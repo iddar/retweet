@@ -4,6 +4,7 @@
   "description": "Get retweet",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"no test\""
   },
   "author": "Iddar Olivares",
